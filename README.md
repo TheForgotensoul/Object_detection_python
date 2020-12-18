@@ -65,7 +65,7 @@ For Mac and Linux run this command
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check **[issues page](https://github.com/TheForgotensoul/Alien-Invasion/issues)**.
+Contributions, issues and feature requests are welcome!<br />Feel free to check **[issues page](https://github.com/TheForgotensoul/Object_detection_python/issues)**.
 
 ## Show your support
 
@@ -74,7 +74,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 **[theforgotensoul](https://github.com/theforgotensoul)**.<br />
-This project is **[MIT](https://github.com/TheForgotensoul/Alien-Invasion/blob/master/LICENSE)** licensed.
+This project is **[MIT](https://github.com/TheForgotensoul/Object_detection_python/blob/main/LICENSE)** licensed.
 
 ---
 
