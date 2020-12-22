@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Object detection in Real time, from video footage and from imgaes using pre-trained models. This repository is completed buit using Opencv and python 3.8.
+> Object detection in Real time, from video footage and from images using pre-trained models. This repository is completed buit using Opencv and python 3.8.
 
 ### 🏠 [Homepage](https://github.com/TheForgotensoul/Object_detection_python)
 
